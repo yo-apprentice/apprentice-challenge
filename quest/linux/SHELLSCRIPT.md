@@ -8,7 +8,7 @@
     #!/bin/bash
    echo "Hello!"
 3. 実行権限を付与する chmod +x hello.sh
-4. スクリプトを実行する ./hello.sh
+4. スクリプトを実行する ./hello.sh or bash hello.sh
 
 なお、シェルスクリプトを実行する際にはファイルに実行権限が付与されている必要があることに気を付けてください。
 
